@@ -25,5 +25,5 @@ The player's ship can be destroyed by enemy fire. The spacecraft is partially pr
 
 ## 📸Screenshots
 
-![gameplay1](gameplay1.png)
-![gameplay2](gameplay2.png)
+![gameplay1](/screenshots/gameplay1.png)
+![gameplay2](/screenshots/gameplay2.png)
